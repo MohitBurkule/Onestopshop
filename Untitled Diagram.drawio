@@ -1,1 +1,172 @@
-<mxfile host="www.draw.io" modified="2020-01-22T16:14:54.128Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" version="12.5.6" etag="KVuXJStMd3_5FRluME9O" type="github"><diagram id="bTGkfAngCmw1wgMveI2p">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-01-22T16:49:09.059Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="GdyBBPTRHBjaRUaqzI4c" version="12.5.6" type="github">
+  <diagram id="bTGkfAngCmw1wgMveI2p" name="Page-1">
+    <mxGraphModel dx="1735" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="240" width="1210" height="270" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RvVi6cRuGr6k4yjkj1-u-1" target="RvVi6cRuGr6k4yjkj1-u-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-1" value="Register on platform" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="50" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RvVi6cRuGr6k4yjkj1-u-2" target="RvVi6cRuGr6k4yjkj1-u-1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-2" value="User" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RvVi6cRuGr6k4yjkj1-u-3" target="RvVi6cRuGr6k4yjkj1-u-4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-3" value="Select a location" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="50" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RvVi6cRuGr6k4yjkj1-u-4" target="RvVi6cRuGr6k4yjkj1-u-5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-4" value="View&amp;nbsp;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px ; white-space: nowrap&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Select%20a%20location%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22480%22%20y%3D%2250%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;br&gt;Washroom Services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="140" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RvVi6cRuGr6k4yjkj1-u-5" target="RvVi6cRuGr6k4yjkj1-u-6">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-5" value="Filter by location and Time slot&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px ; white-space: nowrap&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22View%26amp%3Bnbsp%3B%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgba(0%20%2C%200%20%2C%200%20%2C%200)%20%3B%20font-family%3A%20monospace%20%3B%20font-size%3A%200px%20%3B%20white-space%3A%20nowrap%26quot%3B%26gt%3B%253CmxGraphModel%253E%253Croot%253E%253CmxCell%2520id%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25221%2522%2520parent%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25222%2522%2520value%253D%2522Select%2520a%2520location%2522%2520style%253D%2522rounded%253D1%253BwhiteSpace%253Dwrap%253Bhtml%253D1%253B%2522%2520vertex%253D%25221%2522%2520parent%253D%25221%2522%253E%253CmxGeometry%2520x%253D%2522480%2522%2520y%253D%252250%2522%2520width%253D%2522120%2522%2520height%253D%252260%2522%2520as%253D%2522geometry%2522%252F%253E%253C%252FmxCell%253E%253C%252Froot%253E%253C%252FmxGraphModel%253E%26lt%3B%2Fspan%26gt%3B%26lt%3Bbr%26gt%3BWashroom%20Services%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22480%22%20y%3D%22140%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px ; white-space: nowrap&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22View%26amp%3Bnbsp%3B%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgba(0%20%2C%200%20%2C%200%20%2C%200)%20%3B%20font-family%3A%20monospace%20%3B%20font-size%3A%200px%20%3B%20white-space%3A%20nowrap%26quot%3B%26gt%3B%253CmxGraphModel%253E%253Croot%253E%253CmxCell%2520id%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25221%2522%2520parent%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25222%2522%2520value%253D%2522Select%2520a%2520location%2522%2520style%253D%2522rounded%253D1%253BwhiteSpace%253Dwrap%253Bhtml%253D1%253B%2522%2520vertex%253D%25221%2522%2520parent%253D%25221%2522%253E%253CmxGeometry%2520x%253D%2522480%2522%2520y%253D%252250%2522%2520width%253D%2522120%2522%2520height%253D%252260%2522%2520as%253D%2522geometry%2522%252F%253E%253C%252FmxCell%253E%253C%252Froot%253E%253C%252FmxGraphModel%253E%26lt%3B%2Fspan%26gt%3B%26lt%3Bbr%26gt%3BWashroom%20Services%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22480%22%20y%3D%22140%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="140" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RvVi6cRuGr6k4yjkj1-u-6" target="RvVi6cRuGr6k4yjkj1-u-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-6" value="Book a particular service&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="150" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RvVi6cRuGr6k4yjkj1-u-7" target="RvVi6cRuGr6k4yjkj1-u-8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-7" value="Get Otp to be shared with the Service Provider&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="250" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RvVi6cRuGr6k4yjkj1-u-8" target="RvVi6cRuGr6k4yjkj1-u-9">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="RvVi6cRuGr6k4yjkj1-u-8" target="RvVi6cRuGr6k4yjkj1-u-23">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-8" value="At the selected time arrive and share the otp manually with the merchant" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="250" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RvVi6cRuGr6k4yjkj1-u-9" target="RvVi6cRuGr6k4yjkj1-u-10">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-9" value="After otp match You are allowed to use the service for&amp;nbsp; max specified time&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="250" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RvVi6cRuGr6k4yjkj1-u-10" target="RvVi6cRuGr6k4yjkj1-u-11">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="RvVi6cRuGr6k4yjkj1-u-10" target="RvVi6cRuGr6k4yjkj1-u-25">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-10" value="After Using share the end otp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="250" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-11" value="Write feedback&amp;nbsp; rate&amp;nbsp;&lt;br&gt;&amp;nbsp;factors (cleanliness,safety,&lt;br&gt;usability)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="250" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RvVi6cRuGr6k4yjkj1-u-13" target="RvVi6cRuGr6k4yjkj1-u-14">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-13" value="Service Provider" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="130" y="600" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RvVi6cRuGr6k4yjkj1-u-14" target="RvVi6cRuGr6k4yjkj1-u-15">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-14" value="Click the Register Button (if not already registered)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="610" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RvVi6cRuGr6k4yjkj1-u-15" target="RvVi6cRuGr6k4yjkj1-u-16">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-15" value="Add exact location of washroom service provided by you" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="610" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RvVi6cRuGr6k4yjkj1-u-16" target="RvVi6cRuGr6k4yjkj1-u-17">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-16" value="Enter time for which you will be allowing the service per day (eg.from 6am -8am)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="610" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RvVi6cRuGr6k4yjkj1-u-17" target="RvVi6cRuGr6k4yjkj1-u-18">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-17" value="Enter details of which type of service you have (western/indian)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="610" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RvVi6cRuGr6k4yjkj1-u-18" target="RvVi6cRuGr6k4yjkj1-u-19">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-18" value="Enter any other relevent information" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="520" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RvVi6cRuGr6k4yjkj1-u-19" target="RvVi6cRuGr6k4yjkj1-u-20">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-19" value="Enter charge for using your service (per use)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="520" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="RvVi6cRuGr6k4yjkj1-u-20" target="RvVi6cRuGr6k4yjkj1-u-21">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-20" value="Send application for final verification" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="520" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.399;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RvVi6cRuGr6k4yjkj1-u-21" target="RvVi6cRuGr6k4yjkj1-u-22">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-21" value="After a actual verifier visits and confirms then your service will be online&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="510" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RvVi6cRuGr6k4yjkj1-u-22" target="RvVi6cRuGr6k4yjkj1-u-23">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-22" value="Receive an OTP to be shared with user&amp;nbsp; &amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="430" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RvVi6cRuGr6k4yjkj1-u-23" target="RvVi6cRuGr6k4yjkj1-u-24">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-23" value="When user arrives share your otp to him and receive his otp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="430" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RvVi6cRuGr6k4yjkj1-u-24" target="RvVi6cRuGr6k4yjkj1-u-25">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-24" value="Allow him to use your service after otp match" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="430" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RvVi6cRuGr6k4yjkj1-u-25" target="RvVi6cRuGr6k4yjkj1-u-26">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-25" value="Share end otp&amp;nbsp; to end the Service&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="430" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RvVi6cRuGr6k4yjkj1-u-26" target="RvVi6cRuGr6k4yjkj1-u-27">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-26" value="Rate the user&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="420" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-27" value="If everything is fine then receive payment within 7 days&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="420" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="RvVi6cRuGr6k4yjkj1-u-58" value="&lt;b&gt;&lt;i&gt;An Instance of service selection&lt;/i&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-40.879999999999995" y="365" width="40" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
