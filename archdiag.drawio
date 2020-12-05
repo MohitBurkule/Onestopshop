@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T16:05:12.911Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="ev3LTBcRdzPeJG14YlUN" version="13.10.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-12-05T16:06:43.863Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="gfjmEu3epzPMcpViz5uS" version="13.10.8" type="github" pages="5">
   <diagram id="NTScjg8hOatjXxuZCJmz" name="Page-1">
     <mxGraphModel dx="1490" dy="1046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -964,7 +964,7 @@
         </mxCell>
         <mxCell id="F0nRV-v4BKlG-lFYobTf-1" value="Open chat&lt;br&gt;(pat&amp;nbsp; id, doc id )" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;container=1;" vertex="1" collapsed="1" parent="RmvV5o4D97s3n4oJEgqg-1">
           <mxGeometry x="744.9994919941043" y="660" width="120" height="30" as="geometry">
-            <mxRectangle x="16.62162162162162" width="70" height="20" as="alternateBounds" />
+            <mxRectangle x="744.9994919941043" y="660" width="70" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F0nRV-v4BKlG-lFYobTf-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;" vertex="1" parent="F0nRV-v4BKlG-lFYobTf-1">
